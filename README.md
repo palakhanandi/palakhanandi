@@ -3,7 +3,7 @@ Hi 👋, I'm Palak Hanandi</h1>
 <h3>A passionate Developer from India</h3>
 
 <!-- Profile views and followers -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakhanandi&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[palakhanandi]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
 
 <!-- About Section -->
 ## 🙋‍♂️ About Me
@@ -18,7 +18,7 @@ Hi 👋, I'm Palak Hanandi</h1>
 ## 🌐 **Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/palak-hanandi-432920327" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/palak_234920m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
@@ -38,8 +38,8 @@ Hi 👋, I'm Palak Hanandi</h1>
 ## 📌 **Projects**
 | Project Name | Tech Used | Repo Link |
 |--------------|-----------|-----------|
-| Stopwatch | HTML, CSS, JS | [Link](#) |
-| Weather App | HTML, CSS, JS, API | [Link](#) |
+| AI Attendance system| HTML, CSS, JS | [Link](#) |
+| We| HTML, CSS, JS, API | [Link](#) |
 | Meme Generator | JavaScript | [Link](#) |
 | Login Templates | HTML, CSS | [Link](#) |
 
