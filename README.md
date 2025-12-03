@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Palak Hanandi</h1>
-<h3 align="center">A passionate Developer from India</h3>
+Hi 👋, I'm Palak Hanandi</h1>
+<h3>A passionate Developer from India</h3>
 
 <!-- Profile views and followers -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
@@ -10,14 +10,14 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **palak39h@gmail.com**
 - ⚡ Fun fact: **I love music & reading**
 
 ---
 
 ## 🌐 **Connect with me**
 <p align="left">
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/palak-hanandi-432920327" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/your-instagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
