@@ -3,7 +3,7 @@ Hi 👋, I'm Palak Hanandi</h1>
 <h3>A passionate Developer from India</h3>
 
 <!-- Profile views and followers -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakhanandi&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /> </p>
 
 <!-- About Section -->
 ## 🙋‍♂️ About Me
