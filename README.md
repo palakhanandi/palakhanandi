@@ -39,28 +39,12 @@ Hi 👋, I'm Palak Hanandi</h1>
 | Project Name | Tech Used | 
 |--------------|-----------|
 | AI Attendance Agent| Python | 
-| Hospital Managment System | Python,php | 
+| Hospital Managment System | Python,Php,HTML,CSS | 
 | Temperature Converter | HTML, CSS | 
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="left"> 
-<img src="https://github-profile-trophy.vercel.app/?username=palakhanandi" alt="[your-username]" />
-</p>
 
----
-
-## 📊 **GitHub Stats**
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark" alt="stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=dark" alt="streak" />
-</p>
-
----
 
 
 
