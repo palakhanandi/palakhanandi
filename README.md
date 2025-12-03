@@ -36,18 +36,17 @@ Hi 👋, I'm Palak Hanandi</h1>
 ---
 
 ## 📌 **Projects**
-| Project Name | Tech Used | Repo Link |
-|--------------|-----------|-----------|
-| AI Attendance system| HTML, CSS, JS | [Link](#) |
-| We| HTML, CSS, JS, API | [Link](#) |
-| Meme Generator | JavaScript | [Link](#) |
-| Login Templates | HTML, CSS | [Link](#) |
+| Project Name | Tech Used | 
+|--------------|-----------|
+| AI Attendance Agent| Python | 
+| Hospital Managment System | Python,php | 
+| Temperature Converter | HTML, CSS | 
 
 ---
 
 ## 🏆 **GitHub Achievements**
 <p align="left"> 
-<img src="https://github-profile-trophy.vercel.app/?username=[your-username]" alt="[your-username]" />
+<img src="https://github-profile-trophy.vercel.app/?username=palakhanandi" alt="[your-username]" />
 </p>
 
 ---
@@ -63,17 +62,8 @@ Hi 👋, I'm Palak Hanandi</h1>
 
 ---
 
-## 🔥 **Top Languages**
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark" />
-</p>
 
----
 
-### ✨ **Support / Sponsor**
-<p><a href="https://www.buymeacoffee.com/yourname"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" /></a></p>
-
----
 
 ### 🎉 **Thanks for visiting my profile!**
 <p align="center">
