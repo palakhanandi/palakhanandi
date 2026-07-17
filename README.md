@@ -105,7 +105,7 @@ Full Stack Developer • AI Enthusiast • Java Developer
 - Automated AI Code Reviews
 - Repository Analytics Dashboard
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: https://github.com/palakhanandi/ReviewForge-AI
 
 ---
 
@@ -118,7 +118,7 @@ Full Stack Developer • AI Enthusiast • Java Developer
 - PDF Report Generation
 - CSV Dataset Analysis
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: https://github.com/palakhanandi/fairai-pro
 
 ---
 
@@ -131,7 +131,7 @@ Full Stack Developer • AI Enthusiast • Java Developer
 - Certificate Generation
 - Admin & Intern Dashboards
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: https://github.com/palakhanandi/intern-managment-2
 
 ---
 
@@ -178,23 +178,8 @@ Full Stack Developer • AI Enthusiast • Java Developer
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=palakhanandi&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palakhanandi&theme=tokyonight"/>
 
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakhanandi&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=palakhanandi&theme=onedark&margin-w=15&margin-h=15"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
