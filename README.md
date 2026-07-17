@@ -172,13 +172,6 @@ Full Stack Developer • AI Enthusiast • Java Developer
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palakhanandi&show_icons=true&theme=tokyonight"/>
-
-
 
 
 # 📈 Contribution Graph
