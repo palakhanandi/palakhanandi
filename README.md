@@ -1,128 +1,170 @@
 <h1 align="center">Hi 👋, I'm Palak Hanandi</h1>
-<h3 align="center">A Passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=palakhanandi&label=Profile%20views&color=0e75b6&style=flat" alt="palakhanandi" />
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Java Developer
+</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=palakhanandi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+# 👩‍💻 About Me
 
-- 🎓 B.E. Electronics & Telecommunication Engineering Student
-- 🌱 Currently learning **Java, Spring Boot, System Design & Cloud Technologies**
-- 💻 Passionate about **Full Stack Development, AI & Backend Engineering**
-- 🤖 Building AI-powered applications using **FastAPI, React & Google Gemini**
-- 👯 Looking to collaborate on **Open Source & AI Projects**
-- 📫 Reach me at **palak39h@gmail.com**
-- ⚡ Fun fact: **I love music, reading books, and solving coding challenges.**
+🎓 Electronics & Telecommunication Engineering Student (2023–2027)
+
+💻 Passionate about **Full Stack Development, AI and Backend Engineering**
+
+🌱 Currently learning **Java, Spring Boot, System Design & Cloud**
+
+🚀 Building AI-powered applications using **FastAPI, React, PostgreSQL & Google Gemini**
+
+🤝 Looking to collaborate on **Open Source and AI Projects**
+
+💼 AI Powered Data Insights Intern @ Excelerate
+
+📫 **Email:** **palak39h@gmail.com**
+
+⚡ Fun Fact: I enjoy coding, music, reading books, and learning new technologies.
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/palak-hanandi-432920327" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
 
-<a href="https://instagram.com/palak_234920" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<a href="https://www.linkedin.com/in/palak-hanandi-432920327">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:palak39h@gmail.com">
-<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://instagram.com/palak_234920">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+# 💻 Tech Stack
 
-<p align="left">
+### Languages
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql"/>
+</p>
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+### Frontend
 
-<a href="https://spring.io" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind"/>
+</p>
 
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
+### Backend
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
+</p>
 
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
+### Databases
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase"/>
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
+### AI / ML
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
+- Google Gemini API
+- Machine Learning
+- Data Analysis
+- Computer Vision
+- Predictive Modeling
+- Fairness Evaluation
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
+### Tools
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://supabase.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-| 🚀 Project | 💻 Tech Stack |
-|------------|--------------|
-| **ReviewForge AI** | FastAPI • React • PostgreSQL • Google Gemini |
-| **FairAI Pro** | Python • Machine Learning • Plotly • Gemini AI |
-| **InternHub** | React • Firebase • Supabase |
-| **AI Attendance Agent** | Python • OpenCV |
-| **Hospital Management System** | Python • PHP • HTML • CSS |
-| **Movie Recommendation System** | Python • Streamlit |
+## 🤖 ReviewForge AI
+**AI-powered GitHub Pull Request Review Platform**
+
+- Google Gemini AI Integration
+- FastAPI + React
+- PostgreSQL Database
+- GitHub OAuth Authentication
+- Automated AI Code Reviews
+- Repository Analytics Dashboard
+
+🔗 Repository: *Coming Soon*
 
 ---
 
-## 🏆 Achievements
+## ⚖️ FairAI Pro
+**AI Fairness Detection & Bias Analysis Platform**
 
-- 🥇 AI Powered Data Insights Intern
+- Machine Learning Fairness Metrics
+- Plotly Visualizations
+- Gemini AI Generated Reports
+- PDF Report Generation
+- CSV Dataset Analysis
+
+🔗 Repository: *Coming Soon*
+
+---
+
+## 👨‍💻 InternHub
+**Internship Management System**
+
+- React + Firebase + Supabase
+- Attendance Tracking
+- Task Management
+- Certificate Generation
+- Admin & Intern Dashboards
+
+🔗 Repository: *Coming Soon*
+
+---
+
+## 📸 AI Attendance Agent
+
+- Face Recognition Attendance
+- Python
+- OpenCV
+
+---
+
+## 🏥 Hospital Management System
+
+- Python
+- PHP
+- HTML
+- CSS
+- MySQL
+
+---
+
+## 🎬 Movie Recommendation System
+
+- Python
+- Machine Learning
+- Streamlit
+- Recommendation Engine
+
+---
+
+# 🏅 Achievements
+
+- 🥇 AI Powered Data Insights Intern @ Excelerate
 - 💼 Coding Club Coordinator
 - 🤖 India AI Impact Buildathon Participant
 - 🚀 AINCAT 2025 Participant
@@ -130,25 +172,31 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=palakhanandi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palakhanandi&show_icons=true&theme=tokyonight"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakhanandi&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palakhanandi&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palakhanandi&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakhanandi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=palakhanandi&theme=onedark&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=palakhanandi&theme=tokyo-night"/>
@@ -156,7 +204,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -164,8 +212,10 @@
 
 ---
 
-### 🎉 Thanks for visiting my profile!
+## 💡 Quote
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories! ⭐
-</p>
+> **"Keep Learning. Keep Building. Keep Growing."** 🚀
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
